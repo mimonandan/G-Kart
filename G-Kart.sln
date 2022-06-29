@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "G-Kart", "G-Kart.csproj", "{29A6BBB7-38FB-4CBC-8113-C94250B8B40F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29A6BBB7-38FB-4CBC-8113-C94250B8B40F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29A6BBB7-38FB-4CBC-8113-C94250B8B40F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29A6BBB7-38FB-4CBC-8113-C94250B8B40F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29A6BBB7-38FB-4CBC-8113-C94250B8B40F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20E9B6F6-775C-49B5-A5B4-261FF525E37F}
+	EndGlobalSection
+EndGlobal
