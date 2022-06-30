@@ -150,6 +150,40 @@
 								</div>
 							</ul>
 					</li>
+					  <li class="dropdown menu__item">
+						<a href="#" class="dropdown-toggle menu__link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Pharmacy <span class="caret"></span></a>
+						<ul class="dropdown-menu multi-column columns-3">
+								<div class="agile_inner_drop_nav_info">
+									<div class="col-sm-3 multi-gd-img">
+										<ul class="multi-column-dropdown">
+											<li><a href="Pharmacy.aspx">Covid Essentials</a></li>
+											<li><a href="Pharmacy.aspx">Cough,Cold & Flu</a></li>
+											<li><a href="Pharmacy.aspx">Pain Relief</a></li>
+											<li><a href="Pharmacy.aspx">Diabetes</a></li>
+											<li><a href="Pharmacy.aspx">Skin Care</a></li>
+											<li><a href="Pharmacy.aspx">Nutrition</a></li>
+											<li><a href="Pharmacy.aspx">Vitamins</a></li>
+										</ul>
+									</div>
+									<div class="col-sm-3 multi-gd-img">
+										<ul class="multi-column-dropdown">
+											<li><a href="womens.html">Ayurveda</a></li>
+											<li><a href="womens.html">Derma Care</a></li>
+											<li><a href="womens.html">Heart Care</a></li>
+											<li><a href="womens.html">Liver Care</a></li>
+											<li><a href="womens.html">Kidney Care</a></li>
+											<li><a href="womens.html">Eye Care</a></li>
+											<li><a href="womens.html">Ear Care</a></li>
+										</ul>
+									</div>
+									<div class="col-sm-6 multi-gd-img multi-gd-text ">
+										<a href="womens.html">
+                                            <img src="../assets/images/pharmacy.jpg" /></a>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+							</ul>
+					</li>
 					<li class="menu__item dropdown">
 					   <a class="menu__link" href="#" class="dropdown-toggle" data-toggle="dropdown">Short Codes <b class="caret"></b></a>
 								<ul class="dropdown-menu agile_short_dropdown">
