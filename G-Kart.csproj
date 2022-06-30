@@ -162,18 +162,22 @@
     <Content Include="assets\js\move-top.js" />
     <Content Include="assets\js\responsiveslides.min.js" />
     <Content Include="Templates\Contact.aspx" />
+
     <Content Include="Templates\Home.aspx" />
     <Content Include="Templates\MensFashion.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+
     <Compile Include="Templates\Contact.aspx.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Templates\Contact.aspx.designer.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
+
+   
     </Compile>
     <Compile Include="Templates\Home.aspx.cs">
       <DependentUpon>Home.aspx</DependentUpon>
