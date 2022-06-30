@@ -1427,8 +1427,7 @@
 						<i class="fa fa-truck" aria-hidden="true"></i>
 					</div>
 					<div class="w3layouts_mail_grid_left2">
-						<h3>FREE SHIPPING</h3>
-						<p>Order from AnyWhere, AnyTime</p>
+						<h3>FREE SHIPPING</h3>Order from AnyWhere, AnyTime</p>
 					</div>
 				</div>
 				<div class="col-md-3 w3layouts_mail_grid_left">
