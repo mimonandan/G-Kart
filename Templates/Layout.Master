@@ -80,36 +80,36 @@
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse menu--shylock" id="bs-example-navbar-collapse-1">
 				  <ul class="nav navbar-nav menu__list">
-					<li class="active menu__item menu__item--current"><a class="menu__link" href="index.html">Home <span class="sr-only">(current)</span></a></li>
+					<li class="active menu__item menu__item--current"><a class="menu__link" href="Home.aspx">Home <span class="sr-only">(current)</span></a></li>
 					<li class=" menu__item"><a class="menu__link" href="about.html">About</a></li>
 					<li class="dropdown menu__item">
 						<a href="#" class="dropdown-toggle menu__link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Men's wear <span class="caret"></span></a>
 							<ul class="dropdown-menu multi-column columns-3">
 								<div class="agile_inner_drop_nav_info">
 									<div class="col-sm-6 multi-gd-img1 multi-gd-text ">
-										<a href="mens.html">
+										<a href="MensFashion.aspx">
                                             <img src="../assets/images/top2.jpg" /></a>
 									</div>
 									<div class="col-sm-3 multi-gd-img">
 										<ul class="multi-column-dropdown">
-											<li><a href="mens.html">Clothing</a></li>
-											<li><a href="mens.html">Wallets</a></li>
-											<li><a href="mens.html">Footwear</a></li>
-											<li><a href="mens.html">Watches</a></li>
-											<li><a href="mens.html">Accessories</a></li>
-											<li><a href="mens.html">Bags</a></li>
-											<li><a href="mens.html">Caps & Hats</a></li>
+											<li><a href="MensFashion.aspx">Clothing</a></li>
+											<li><a href="MensFashion.aspx">Wallets</a></li>
+											<li><a href="MensFashion.aspx">Footwear</a></li>
+											<li><a href="MensFashion.aspx">Watches</a></li>
+											<li><a href="MensFashion.aspx">Accessories</a></li>
+											<li><a href="MensFashion.aspx">Bags</a></li>
+											<li><a href="MensFashion.aspx">Caps & Hats</a></li>
 										</ul>
 									</div>
 									<div class="col-sm-3 multi-gd-img">
 										<ul class="multi-column-dropdown">
-											<li><a href="mens.html">Jewellery</a></li>
-											<li><a href="mens.html">Sunglasses</a></li>
-											<li><a href="mens.html">Perfumes</a></li>
-											<li><a href="mens.html">Beauty</a></li>
-											<li><a href="mens.html">Shirts</a></li>
-											<li><a href="mens.html">Sunglasses</a></li>
-											<li><a href="mens.html">Swimwear</a></li>
+											<li><a href="MensFashion.aspx">Jewellery</a></li>
+											<li><a href="MensFashion.aspx">Sunglasses</a></li>
+											<li><a href="MensFashion.aspx">Perfumes</a></li>
+											<li><a href="MensFashion.aspx">Beauty</a></li>
+											<li><a href="MensFashion.aspx">Shirts</a></li>
+											<li><a href="MensFashion.aspx">Sunglasses</a></li>
+											<li><a href="MensFashion.aspx">Swimwear</a></li>
 										</ul>
 									</div>
 									<div class="clearfix"></div>
@@ -327,9 +327,9 @@
 					<h4>Our <span>Information</span> </h4>
 					<ul>
 						<li><a href="Home.aspx">Home</a></li>
-						<li><a href="mens.html">Men's Wear</a></li>
+						<li><a href="MensFashion.aspx">Men's Wear</a></li>
 						<li><a href="womens.html">Women's wear</a></li>
-						<li><a href="about.html">About</a></li>
+						<li><a href="About.aspx">About</a></li>
 						<li><a href="typography.html">Short Codes</a></li>
 						<li><a href="contact.html">Contact</a></li>
 					</ul>
