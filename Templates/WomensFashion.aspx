@@ -11,7 +11,7 @@
 
 						   <ul class="w3_short">
 								<li><a href="index.html">Home</a><i>|</i></li>
-								<li>Women's Wear</li>
+								<li>Women's  Wear</li>
 							</ul>
 						 </div>
 				</div>
@@ -36,36 +36,36 @@
 			<div class="css-treeview">
 				<h4>Categories</h4>
 				<ul class="tree-list-pad">
-					<li><input type="checkbox" checked="checked" id="item-0" /><label for="item-0"><i class="fa fa-long-arrow-right" aria-hidden="true"></i> Men's Wear</label>
+					<li><input type="checkbox" checked="checked" id="item-0" /><label for="item-0"><i class="fa fa-long-arrow-right" aria-hidden="true"></i> Women's Wear</label>
 						<ul>
 							<li><input type="checkbox" id="item-0-0" /><label for="item-0-0"><i class="fa fa-long-arrow-right" aria-hidden="true"></i>Ethnic Wear</label>
 								<ul>
-									<li><a href="mens.html">Shirts</a></li>
-									<li><a href="mens.html">Caps</a></li>
-									<li><a href="mens.html">Shoes</a></li>
-									<li><a href="mens.html">Pants</a></li>
-									<li><a href="mens.html">SunGlasses</a></li>
-									<li><a href="mens.html">Trousers</a></li>
+									<li><a href="WomenFashion.html">Shirts</a></li>
+									<li><a href="WomenFashion.html">Caps</a></li>
+									<li><a href="WomenFashion.html">Shoes</a></li>
+									<li><a href="WomenFashion.html">Pantss</a></li>
+									<li><a href="WomenFashion.html">SunGlasses</a></li>
+									<li><a href="WomenFashion.html">Trousers</a></li>
 								</ul>
 							</li>
 							<li><input type="checkbox"  id="item-0-1" /><label for="item-0-1"><i class="fa fa-long-arrow-right" aria-hidden="true"></i> Party Wear</label>
 								<ul>
-									<li><a href="mens.html">Shirts</a></li>
-									<li><a href="mens.html">Caps</a></li>
-									<li><a href="mens.html">Shoes</a></li>
-									<li><a href="mens.html">Pants</a></li>
-									<li><a href="mens.html">SunGlasses</a></li>
-									<li><a href="mens.html">Trousers</a></li>
+									<li><a href="WomenFashion.aspx">Shirts</a></li>
+									<li><a href="WomenFashion.aspx">Caps</a></li>
+									<li><a href="WomenFashion.aspx">Shoes</a></li>
+									<li><a href="WomenFashion.aspx">Pants</a></li>
+									<li><a href="WomenFashion.aspx">SunGlasses</a></li>
+									<li><a href="WomenFashion.aspx">Trousers</a></li>
 								</ul>
 							</li>
 							<li><input type="checkbox"  id="item-0-2" /><label for="item-0-2"><i class="fa fa-long-arrow-right" aria-hidden="true"></i> Casual Wear</label>
 								<ul>
-									<li><a href="mens.html">Shirts</a></li>
-									<li><a href="mens.html">Caps</a></li>
-									<li><a href="mens.html">Shoes</a></li>
-									<li><a href="mens.html">Pants</a></li>
-									<li><a href="mens.html">SunGlasses</a></li>
-									<li><a href="mens.html">Trousers</a></li>
+									<li><a href="WomenFashion.aspx">Shirts</a></li>
+									<li><a href="WomenFashion.aspx">Caps</a></li>
+									<li><a href="WomenFashion.aspx">Shoes</a></li>
+									<li><a href="WomenFashion.aspx">Pants</a></li>
+									<li><a href="WomenFashion.aspx">SunGlasses</a></li>
+									<li><a href="WomenFashion.aspx">Trousers</a></li>
 								</ul>
 							</li>
 						</ul>
@@ -74,10 +74,10 @@
 						<ul>
 							<li><input type="checkbox" checked="checked" id="item-1-0" /><label for="item-1-0"><i class="fa fa-long-arrow-right" aria-hidden="true"></i> New Arrivals</label>
 								<ul>
-									<li><a href="mens.html">Shirts</a></li>
-									<li><a href="mens.html">Shoes</a></li>
-									<li><a href="mens.html">Pants</a></li>
-									<li><a href="mens.html">SunGlasses</a></li>
+									<li><a href="WomenFashion.aspx">Shirts</a></li>
+									<li><a href="WomenFashion.aspx">Shoes</a></li>
+									<li><a href="WomenFashion.aspx">Pants</a></li>
+									<li><a href="WomenFashion.aspx">SunGlasses</a></li>
 								</ul>
 							</li>
 							
@@ -87,26 +87,26 @@
 						<ul>
 							<li><input type="checkbox"  id="item-2-0" /><label for="item-2-0"><i class="fa fa-long-arrow-right" aria-hidden="true"></i> Summer Discount Sales</label>
 								<ul>
-									<li><a href="mens.html">Shirts</a></li>
-									<li><a href="mens.html">Shoes</a></li>
-									<li><a href="mens.html">Pants</a></li>
-									<li><a href="mens.html">SunGlasses</a></li>
+									<li><a href="WomenFashion.aspx">Shirts</a></li>
+									<li><a href="WomenFashion.aspx">Shoes</a></li>
+									<li><a href="WomenFashion.aspx">Pants</a></li>
+									<li><a href="WomenFashion.aspx">SunGlasses</a></li>
 								</ul>
 							</li>
 							<li><input type="checkbox" id="item-2-1" /><label for="item-2-1"><i class="fa fa-long-arrow-right" aria-hidden="true"></i> Exciting Offers</label>
 								<ul>
-									<li><a href="mens.html">Shirts</a></li>
-									<li><a href="mens.html">Shoes</a></li>
-									<li><a href="mens.html">Pants</a></li>
-									<li><a href="mens.html">SunGlasses</a></li>
+									<li><a href="WomenFashion.aspx">Shirts</a></li>
+									<li><a href="WomenFashion.aspx">Shoes</a></li>
+									<li><a href="WomenFashion.aspx">Pants</a></li>
+									<li><a href="WomenFashion.aspx">SunGlasses</a></li>
 								</ul>
 							</li>
 							<li><input type="checkbox" id="item-2-2" /><label for="item-2-2"><i class="fa fa-long-arrow-right" aria-hidden="true"></i> Flat Discounts</label>
 								<ul>
-									<li><a href="mens.html">Shirts</a></li>
-									<li><a href="mens.html">Shoes</a></li>
-									<li><a href="mens.html">Pants</a></li>
-									<li><a href="mens.html">SunGlasses</a></li>
+									<li><a href="WomenFashion.aspx">Shirts</a></li>
+									<li><a href="WomenFashion.aspx">Shoes</a></li>
+									<li><a href="WomenFashion.aspx">Pants</a></li>
+									<li><a href="WomenFashion.aspx">SunGlasses</a></li>
 								</ul>
 							</li>
 						</ul>
@@ -642,7 +642,7 @@
 					</div>
 					<div class="w3layouts_mail_grid_left2">
 						<h3>FREE SHIPPING</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur</p>
+						<p>Order from AnyWhere, AnyTime</p>
 					</div>
 				</div>
 				<div class="col-md-3 w3layouts_mail_grid_left">
@@ -651,7 +651,7 @@
 					</div>
 					<div class="w3layouts_mail_grid_left2">
 						<h3>24/7 SUPPORT</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur</p>
+						<p>Free 2 Consult</p>
 					</div>
 				</div>
 				<div class="col-md-3 w3layouts_mail_grid_left">
@@ -660,7 +660,7 @@
 					</div>
 					<div class="w3layouts_mail_grid_left2">
 						<h3>MONEY BACK GUARANTEE</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur</p>
+						<p>Get back your money instantly after refund, return or cancellation</p>
 					</div>
 				</div>
 					<div class="col-md-3 w3layouts_mail_grid_left">
@@ -669,7 +669,7 @@
 					</div>
 					<div class="w3layouts_mail_grid_left2">
 						<h3>FREE GIFT COUPONS</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur</p>
+						<p>Coupons, Gift Card Available</p>
 					</div>
 				</div>
 				<div class="clearfix"> </div>

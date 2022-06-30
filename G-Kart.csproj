@@ -161,91 +161,11 @@
     <Content Include="assets\js\modernizr.custom.js" />
     <Content Include="assets\js\move-top.js" />
     <Content Include="assets\js\responsiveslides.min.js" />
-    <Content Include="GroceryAsstes\bootstrap\css\bootstrap-grid.css" />
-    <Content Include="GroceryAsstes\bootstrap\css\bootstrap-grid.min.css" />
-    <Content Include="GroceryAsstes\bootstrap\css\bootstrap-reboot.css" />
-    <Content Include="GroceryAsstes\bootstrap\css\bootstrap-reboot.min.css" />
-    <Content Include="GroceryAsstes\bootstrap\css\bootstrap.css" />
-    <Content Include="GroceryAsstes\bootstrap\css\bootstrap.min.css" />
-    <Content Include="GroceryAsstes\bootstrap\js\bootstrap.bundle.js" />
-    <Content Include="GroceryAsstes\bootstrap\js\bootstrap.bundle.min.js" />
-    <Content Include="GroceryAsstes\bootstrap\js\bootstrap.js" />
-    <Content Include="GroceryAsstes\bootstrap\js\bootstrap.min.js" />
-    <Content Include="GroceryAsstes\css\all.min.css" />
-    <Content Include="GroceryAsstes\css\animate.css" />
-    <Content Include="GroceryAsstes\css\magnific-popup.css" />
-    <Content Include="GroceryAsstes\css\main.css" />
-    <Content Include="GroceryAsstes\css\meanmenu.min.css" />
-    <Content Include="GroceryAsstes\css\owl.carousel.css" />
-    <Content Include="GroceryAsstes\css\responsive.css" />
-    <Content Include="GroceryAsstes\css\scss\pages\_404.css" />
-    <Content Include="GroceryAsstes\img\1.jpg" />
-    <Content Include="GroceryAsstes\img\a.jpg" />
-    <Content Include="GroceryAsstes\img\abt.jpg" />
-    <Content Include="GroceryAsstes\img\avaters\avatar1.png" />
-    <Content Include="GroceryAsstes\img\avaters\avatar2.png" />
-    <Content Include="GroceryAsstes\img\avaters\avatar3.png" />
-    <Content Include="GroceryAsstes\img\breadcrumb-bg.jpg" />
-    <Content Include="GroceryAsstes\img\company-logos\1.png" />
-    <Content Include="GroceryAsstes\img\company-logos\2.png" />
-    <Content Include="GroceryAsstes\img\company-logos\3.png" />
-    <Content Include="GroceryAsstes\img\company-logos\4.png" />
-    <Content Include="GroceryAsstes\img\company-logos\5.png" />
-    <Content Include="GroceryAsstes\img\favicon.png" />
-    <Content Include="GroceryAsstes\img\feature-bg.jpg" />
-    <Content Include="GroceryAsstes\img\hero-bg-2.jpg" />
-    <Content Include="GroceryAsstes\img\hero-bg-3.jpg" />
-    <Content Include="GroceryAsstes\img\hero-bg.jpg" />
-    <Content Include="GroceryAsstes\img\homepage-bg-pattern.png" />
-    <Content Include="GroceryAsstes\img\latest-news\news-bg-1.jpg" />
-    <Content Include="GroceryAsstes\img\latest-news\news-bg-2.jpg" />
-    <Content Include="GroceryAsstes\img\latest-news\news-bg-3.jpg" />
-    <Content Include="GroceryAsstes\img\latest-news\news-bg-4.jpg" />
-    <Content Include="GroceryAsstes\img\latest-news\news-bg-5.jpg" />
-    <Content Include="GroceryAsstes\img\latest-news\news-bg-6.jpg" />
-    <Content Include="GroceryAsstes\img\logo.png" />
-    <Content Include="GroceryAsstes\img\products\product-img-1.jpg" />
-    <Content Include="GroceryAsstes\img\products\product-img-2.jpg" />
-    <Content Include="GroceryAsstes\img\products\product-img-3.jpg" />
-    <Content Include="GroceryAsstes\img\products\product-img-4.jpg" />
-    <Content Include="GroceryAsstes\img\products\product-img-5.jpg" />
-    <Content Include="GroceryAsstes\img\products\product-img-6.jpg" />
-    <Content Include="GroceryAsstes\img\team\team-1.jpg" />
-    <Content Include="GroceryAsstes\img\team\team-2.jpg" />
-    <Content Include="GroceryAsstes\img\team\team-3.jpg" />
-    <Content Include="GroceryAsstes\js\form-validate.js" />
-    <Content Include="GroceryAsstes\js\jquery-1.11.3.min.js" />
-    <Content Include="GroceryAsstes\js\jquery.countdown.js" />
-    <Content Include="GroceryAsstes\js\jquery.isotope-3.0.6.min.js" />
-    <Content Include="GroceryAsstes\js\jquery.magnific-popup.min.js" />
-    <Content Include="GroceryAsstes\js\jquery.meanmenu.min.js" />
-    <Content Include="GroceryAsstes\js\main.js" />
-    <Content Include="GroceryAsstes\js\owl.carousel.min.js" />
-    <Content Include="GroceryAsstes\js\sticker.js" />
-    <Content Include="GroceryAsstes\js\waypoints.js" />
-    <Content Include="GroceryAsstes\webfonts\fa-brands-400.svg" />
-    <Content Include="GroceryAsstes\webfonts\fa-regular-400.svg" />
-    <Content Include="GroceryAsstes\webfonts\fa-solid-900.svg" />
-    <Content Include="GroceryTemplet\HomePage.aspx" />
     <Content Include="Templates\Home.aspx" />
     <Content Include="Templates\WomensFashion.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GroceryTemplet\Grocery.Master.cs">
-      <DependentUpon>Grocery.Master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="GroceryTemplet\Grocery.Master.designer.cs">
-      <DependentUpon>Grocery.Master</DependentUpon>
-    </Compile>
-    <Compile Include="GroceryTemplet\HomePage.aspx.cs">
-      <DependentUpon>HomePage.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="GroceryTemplet\HomePage.aspx.designer.cs">
-      <DependentUpon>HomePage.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Templates\Home.aspx.cs">
       <DependentUpon>Home.aspx</DependentUpon>
@@ -291,52 +211,6 @@
     <Content Include="assets\fonts\Lato-Regular.ttf" />
     <Content Include="assets\fonts\Lato-Thin.ttf" />
     <Content Include="assets\fonts\Lato-ThinItalic.ttf" />
-    <Content Include="GroceryAsstes\bootstrap\css\bootstrap-grid.css.map" />
-    <Content Include="GroceryAsstes\bootstrap\css\bootstrap-grid.min.css.map" />
-    <Content Include="GroceryAsstes\bootstrap\css\bootstrap-reboot.css.map" />
-    <Content Include="GroceryAsstes\bootstrap\css\bootstrap-reboot.min.css.map" />
-    <Content Include="GroceryAsstes\bootstrap\css\bootstrap.css.map" />
-    <Content Include="GroceryAsstes\bootstrap\css\bootstrap.min.css.map" />
-    <Content Include="GroceryAsstes\bootstrap\js\bootstrap.bundle.js.map" />
-    <Content Include="GroceryAsstes\bootstrap\js\bootstrap.bundle.min.js.map" />
-    <Content Include="GroceryAsstes\bootstrap\js\bootstrap.js.map" />
-    <Content Include="GroceryAsstes\bootstrap\js\bootstrap.min.js.map" />
-    <Content Include="GroceryAsstes\css\scss\base\_mixins.scss" />
-    <Content Include="GroceryAsstes\css\scss\base\_typography.scss" />
-    <Content Include="GroceryAsstes\css\scss\base\_variables.scss" />
-    <Content Include="GroceryAsstes\css\scss\common\_common.scss" />
-    <Content Include="GroceryAsstes\css\scss\common\_footer.scss" />
-    <Content Include="GroceryAsstes\css\scss\common\_header.scss" />
-    <Content Include="GroceryAsstes\css\scss\common\_hover.scss" />
-    <Content Include="GroceryAsstes\css\scss\main.scss" />
-    <Content Include="GroceryAsstes\css\scss\pages\_404.scss" />
-    <Content Include="GroceryAsstes\css\scss\pages\_about.scss" />
-    <Content Include="GroceryAsstes\css\scss\pages\_contact.scss" />
-    <Content Include="GroceryAsstes\css\scss\pages\_shop.scss" />
-    <Content Include="GroceryAsstes\css\scss\prepros-6.config" />
-    <Content Include="GroceryAsstes\css\scss\sections\_about.scss" />
-    <Content Include="GroceryAsstes\css\scss\sections\_cart-banner.scss" />
-    <Content Include="GroceryAsstes\css\scss\sections\_hero.scss" />
-    <Content Include="GroceryAsstes\css\scss\sections\_list.scss" />
-    <Content Include="GroceryAsstes\css\scss\sections\_news.scss" />
-    <Content Include="GroceryAsstes\css\scss\sections\_shop-banner.scss" />
-    <Content Include="GroceryAsstes\css\scss\sections\_testimonials.scss" />
-    <Content Include="GroceryAsstes\webfonts\fa-brands-400.eot" />
-    <Content Include="GroceryAsstes\webfonts\fa-brands-400.eot_" />
-    <Content Include="GroceryAsstes\webfonts\fa-brands-400.ttf" />
-    <Content Include="GroceryAsstes\webfonts\fa-brands-400.woff" />
-    <Content Include="GroceryAsstes\webfonts\fa-brands-400.woff2" />
-    <Content Include="GroceryAsstes\webfonts\fa-regular-400.eot" />
-    <Content Include="GroceryAsstes\webfonts\fa-regular-400.eot_" />
-    <Content Include="GroceryAsstes\webfonts\fa-regular-400.ttf" />
-    <Content Include="GroceryAsstes\webfonts\fa-regular-400.woff" />
-    <Content Include="GroceryAsstes\webfonts\fa-regular-400.woff2" />
-    <Content Include="GroceryAsstes\webfonts\fa-solid-900.eot" />
-    <Content Include="GroceryAsstes\webfonts\fa-solid-900.eot_" />
-    <Content Include="GroceryAsstes\webfonts\fa-solid-900.ttf" />
-    <Content Include="GroceryAsstes\webfonts\fa-solid-900.woff" />
-    <Content Include="GroceryAsstes\webfonts\fa-solid-900.woff2" />
-    <Content Include="GroceryTemplet\Grocery.Master" />
     <None Include="packages.config" />
     <Content Include="Templates\Layout.Master" />
     <None Include="Web.Debug.config">
