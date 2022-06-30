@@ -164,7 +164,11 @@
     <Content Include="Templates\Contact.aspx" />
 
     <Content Include="Templates\Home.aspx" />
+
+    <Content Include="Templates\WomensFashion.aspx" />
+
     <Content Include="Templates\MensFashion.aspx" />
+
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -193,12 +197,21 @@
     <Compile Include="Templates\Layout.Master.designer.cs">
       <DependentUpon>Layout.Master</DependentUpon>
     </Compile>
+
+    <Compile Include="Templates\WomensFashion.aspx.cs">
+      <DependentUpon>WomensFashion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Templates\WomensFashion.aspx.designer.cs">
+      <DependentUpon>WomensFashion.aspx</DependentUpon>
+
     <Compile Include="Templates\MensFashion.aspx.cs">
       <DependentUpon>MensFashion.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Templates\MensFashion.aspx.designer.cs">
       <DependentUpon>MensFashion.aspx</DependentUpon>
+
     </Compile>
   </ItemGroup>
   <ItemGroup>
